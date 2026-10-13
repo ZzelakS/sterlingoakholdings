@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.openai/local/
+.env
+.env.local
+.dev.vars
